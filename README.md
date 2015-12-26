@@ -25,7 +25,9 @@
     <td>Add Two Numbers</td> 
     <td></td>
     <td>Yes</td>
-    <td></td>
+    <td> move the pointer separately: while l1 != None or l2 != None:
+            if l1 != None:
+            if l2 != None:</td>
   </tr>
   <tr>
     <td>3</td>
