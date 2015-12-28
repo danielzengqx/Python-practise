@@ -41,7 +41,17 @@
     <td>Median of Two Sorted Arrays</td> 
     <td></td>
     <td>Yes</td>
-    <td></td>
+    <td>Two Cases:"""
+        x is searching region
+        case1: A[k/2] < B[k/2]
+        ----(k/2)xxxx
+        xxx(k/2)-----
+            
+        case2: A[k/2] > B[k/2]
+        xxxx(k/2)-----
+        ---(k/2)xxxxxx
+        """
+        ----------> How come is log(n): Although the program kill 1/4 of the total length. But the base case is for each individual list, for each list is 1/2.</td>
   </tr>
   <tr>
     <td>5</td>
