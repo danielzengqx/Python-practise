@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td>10</td>
-    <td></td> 
+    <td>Regular Expression Matching</td> 
     <td></td>
     <td></td>
     <td></td>
@@ -786,7 +786,7 @@
   </tr>
   <tr>
     <td>101</td>
-    <td></td>
+    <td>Symmetric Tree</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1007,7 +1007,7 @@
   </tr>
   <tr>
     <td>131</td>
-    <td></td> 
+    <td>Palindrome Partitioning</td> 
     <td></td>
     <td></td>
     <td></td>
@@ -1021,10 +1021,10 @@
   </tr>
   <tr>
     <td>133</td>
-    <td></td> 
+    <td>Clone Graph</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Hashmap track and store, continue to skip the recursion. can also use the interation</td>
   </tr>
   <tr>
     <td>134</td>
