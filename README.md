@@ -800,7 +800,7 @@
   </tr>
   <tr>
     <td>103</td>
-    <td></td> 
+    <td>Binary Tree Zigzag Level Order Traversal</td> 
     <td></td>
     <td></td>
     <td></td>
@@ -1077,6 +1077,158 @@
   </tr>
   </table>
   
+  <h4>141-160</h4>
+  <table style="width:100%">
+  <tr>
+    <th>Index</th>
+    <th>Name</th>
+    <th>source code</th>
+    <th>Improved</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>141</td>
+    <td>Linked List Cycle</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>142</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>143</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>144</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>145</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>146</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>147</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>148</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>149</td>
+    <td>Max Points on a Line</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>150</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>151</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>152</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>153</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>154</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>155</td>
+    <td>Min Stack</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>156</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>157</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>158</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>159</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>160</td>
+    <td>Intersection of Two Linked Lists</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
+  
+  
   <h4>61-80</h4>
   <table style="width:100%">
   <tr>
@@ -1227,7 +1379,6 @@
     <td></td>
   </tr>
   </table>
-  
   <table style="width:100%">
   <tr>
     <th>Index</th>
