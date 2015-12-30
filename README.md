@@ -1042,10 +1042,10 @@
   </tr>
   <tr>
     <td>136</td>
-    <td></td> 
+    <td>Single Number</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Xor method</td>
   </tr>
   <tr>
     <td>137</td>
