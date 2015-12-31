@@ -1095,10 +1095,10 @@
   </tr>
   <tr>
     <td>142</td>
-    <td></td> 
+    <td>Linked List Cycle II</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>s+k == loop size</td>
   </tr>
   <tr>
     <td>143</td>
