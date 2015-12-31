@@ -1070,10 +1070,10 @@
   </tr>
   <tr>
     <td>140</td>
-    <td></td> 
+    <td>Word Break II</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Using the hashmap to track the previous result</td>
   </tr>
   </table>
   
