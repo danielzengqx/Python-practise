@@ -1102,10 +1102,10 @@
   </tr>
   <tr>
     <td>143</td>
-    <td></td> 
+    <td>Reorder List</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Break by the middle point, the second list is reverse order</td>
   </tr>
   <tr>
     <td>144</td>
@@ -1130,7 +1130,7 @@
   </tr>
   <tr>
     <td>147</td>
-    <td></td> 
+    <td>Insertion Sort List</td> 
     <td></td>
     <td></td>
     <td></td>
