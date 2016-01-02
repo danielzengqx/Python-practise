@@ -1224,7 +1224,7 @@
     <td>Intersection of Two Linked Lists</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Two different approach. Shortcut, if the order is sorted, then the list can keep move on to the next node</td>
   </tr>
   </table>
   
