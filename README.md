@@ -814,10 +814,10 @@
   </tr>
   <tr>
     <td>105</td>
-    <td></td> 
+    <td>Construct Binary Tree from Preorder and Inorder Traversal</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Preorder to define the root position, inorder to divide right, left subtree</td>
   </tr>
   <tr>
     <td>106</td>
