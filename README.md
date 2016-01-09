@@ -821,10 +821,10 @@
   </tr>
   <tr>
     <td>106</td>
-    <td></td> 
+    <td>Construct Binary Tree from Inorder and Postorder Traversal</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>postorder to define root position, inorder to divide right, left subtree</td>
   </tr>
   <tr>
     <td>107</td>
