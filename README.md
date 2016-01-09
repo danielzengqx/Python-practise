@@ -835,10 +835,10 @@
   </tr>
   <tr>
     <td>108</td>
-    <td></td> 
+    <td>Convert Sorted Array to Binary Search Tree</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>similar to the binary search, find mid and insert into the tree</td>
   </tr>
   <tr>
     <td>109</td>
