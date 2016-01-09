@@ -842,17 +842,17 @@
   </tr>
   <tr>
     <td>109</td>
-    <td></td> 
+    <td>Convert Sorted List to Binary Search Tree</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>inorder walk for building the tree, build the root for each level</td>
   </tr>
   <tr>
     <td>110</td>
-    <td></td> 
+    <td>Balanced Binary Tree	</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>initial check for the empty tree</td>
   </tr>
   <tr>
     <td>111</td>
@@ -863,14 +863,14 @@
   </tr>
   <tr>
     <td>112</td>
-    <td></td> 
+    <td>Path Sum</td> 
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>113</td>
-    <td></td> 
+    <td>Path Sum II</td> 
     <td></td>
     <td></td>
     <td></td>
