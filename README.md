@@ -1028,10 +1028,10 @@
   </tr>
   <tr>
     <td>134</td>
-    <td></td> 
+    <td>Gas Station</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>Pick starting point, if the temporary sum is smaller than 0, it means that previous steps cannot be the starting points</td>
   </tr>
   <tr>
     <td>135</td>
@@ -1137,10 +1137,10 @@
   </tr>
   <tr>
     <td>148</td>
-    <td></td> 
+    <td>Sort List</td> 
     <td></td>
     <td></td>
-    <td></td>
+    <td>O(nlog(n)) - > merge sort. First partition(find mid), then merge two sorted list</td>
   </tr>
   <tr>
     <td>149</td>
